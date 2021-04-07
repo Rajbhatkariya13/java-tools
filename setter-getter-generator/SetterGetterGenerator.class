@@ -1,0 +1,72 @@
+ ˛∫æ   4 ⁄
+ L `	 a b c
+ d e
+ f g
+ f h i
+  ` j
+  k
+ f l m n o
+ p q r
+ K s t u v
+ K w x
+ p y
+ f q z {
+ K | } ~
+  
+  Ä
+ Å Ç
+ Å É
+ Ñ Ö Ü á
+ $ ` à
+ $ â
+ $  ä
+ ã å ç é è ê ë í ì î ï ñ ó ò ô ö õ ú ù û ü † ° ¢ £ § •
+ ã ¶ ß
+ ã ®
+ ã ©
+ ã ™
+ ã ´ ¨ ≠ Æ <init> ()V Code LineNumberTable main ([Ljava/lang/String;)V StackMapTable Ø ∞ ± i Ü getDefaultValueString -(Ljava/lang/reflect/Field;)Ljava/lang/String; getSetterName ≤ getGetterName 
+SourceFile SetterGetterGenerator.java M N ≥ ¥ µ -Usage : java SetterGetterGenerator class_name ∂ ∑ ∏ ∞ π ∫ ª º java/lang/StringBuffer public  Ω æ ø ¿ ()
+ {
+ this. ¡ ¬ ¿ = Y Z ;
+ }
+ public void  [ Z ( √ ƒ   )
+ ] Z return this. %java/awt/datatransfer/StringSelection ≈ ¿ M ∏ ∆ « » …   À Ã Õ  java/lang/ClassNotFoundException java/lang/StringBuilder 3Class not found, set classpath or class is missing  Ω Œ long ≤ œ – java.lang.Long 0 int java.lang.Integer short java.lang.Short (short)0 byte java.lang.Byte (byte)0 double java.lang.Double 0.0 float java.lang.Float 0.0f char java.lang.Character (char)0 boolean java.lang.Boolen false java.lang.String "" null — “ set ” ¿ ‘ ’ ÷ ◊ ÿ Ÿ get SetterGetterGenerator java/lang/Object [Ljava/lang/String; java/lang/Class [Ljava/lang/reflect/Field; java/lang/String java/lang/System out Ljava/io/PrintStream; java/io/PrintStream println (Ljava/lang/String;)V forName %(Ljava/lang/String;)Ljava/lang/Class; getDeclaredFields ()[Ljava/lang/reflect/Field; append ,(Ljava/lang/String;)Ljava/lang/StringBuffer; getSimpleName ()Ljava/lang/String; java/lang/reflect/Field getName getType ()Ljava/lang/Class; toString java/awt/Toolkit getDefaultToolkit ()Ljava/awt/Toolkit; getSystemClipboard #()Ljava/awt/datatransfer/Clipboard; java/awt/datatransfer/Clipboard setContents M(Ljava/awt/datatransfer/Transferable;Ljava/awt/datatransfer/ClipboardOwner;)V -(Ljava/lang/String;)Ljava/lang/StringBuilder; equals (Ljava/lang/Object;)Z length ()I toUpperCase charAt (I)C valueOf (C)Ljava/lang/String; 	substring (I)Ljava/lang/String;   K L       M N  O   !     *∑ ±    P   
+      	 	 Q R  O  «    £*æö ≤ ∂ ±*2∏ L+∂ Mª Y∑ N-	∂ 
+W-+∂ ∂ 
+W-∂ 
+W-∂ 
+W66,æ¢ 8,2:-∂ 
+W-∂ ∂ 
+W-∂ 
+W-∏ ∂ 
+W-∂ 
+WÑßˇ«-∂ 
+W6,æ¢ ’,2:-∂ 
+W-∏ ∂ 
+W-∂ 
+W-∂ ∂ ∂ 
+W-∂ 
+W-∂ ∂ 
+W-∂ 
+W-∂ 
+W-∂ 
+W-∂ ∂ 
+W-∂ 
+W-∂ ∂ 
+W-∂ 
+W-∂ 
+W-	∂ 
+W-∂ ∂ ∂ 
+W-∂ 
+W-∏ ∂ 
+W-∂ 
+W-∂ 
+W-∂ 
+W-∂ ∂ 
+W-∂ 
+W-∂ 
+WÑßˇ*ª Y-∂ ∑ :∏  ∂ !:∂ "ß L≤ ª $Y∑ %&∂ '*2∂ '∂ (∂ ±  ÉÜ #  P   ⁄ 6              "  )  2  9  @  C  M  S   Z ! d " k # u $ |  Ç & â ) ì + ô , † - ™ . ± / æ 0 ≈ 1 œ 2 ÷ 3 › 4 ‰ 5 Ó 6 ı 7 ˇ 8 9 ; <! =( >2 ?9 @@ AG BQ CX D_ )e Gr Hz IÉ MÜ Já L¢ N S   * ˇ 7  T U V W  ;	˚ ÿˇ    T  X 
+ Y Z  O  M     Ô*∂ L+∂ )∂ *ö +∂ +∂ *ô ,∞+∂ -∂ *ö +∂ .∂ *ô ,∞+∂ /∂ *ö +∂ 0∂ *ô 1∞+∂ 2∂ *ö +∂ 3∂ *ô 4∞+∂ 5∂ *ö +∂ 6∂ *ô 7∞+∂ 8∂ *ö +∂ 9∂ *ô :∞+∂ ;∂ *ö +∂ <∂ *ô =∞+∂ >∂ *ö +∂ ?∂ *ô @∞+∂ A∂ *ô B∞C∞    P   .    Q  R   S ; T V U q V å W ß X ¬ Y › Z Ï [ S    ¸  U 
+ [ Z  O   x     J*∂ L+∂ D† ª $Y∑ %E∂ '+∂ F∂ '∂ (∞ª $Y∑ %E∂ '+∂ G∏ H∂ F∂ '+∂ I∂ '∂ (∞    P       _  ` $ a S    ¸ $ \ 
+ ] Z  O   x     J*∂ L+∂ D† ª $Y∑ %J∂ '+∂ F∂ '∂ (∞ª $Y∑ %J∂ '+∂ G∏ H∂ F∂ '+∂ I∂ '∂ (∞    P       e  f $ g S    ¸ $ \  ^    _
